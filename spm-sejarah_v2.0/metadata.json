@@ -1,0 +1,5 @@
+{
+  "name": "SPM Sejarah: Kedaulatan & Perlembagaan",
+  "description": "An interactive quiz website for Malaysian students preparing for their SPM History (Sejarah) exam, focusing on the core theme of Perlembagaan & Kedaulatan Negara. Features include a persistent timer, dual-language support (Malay & English), and an exit option.",
+  "requestFramePermissions": []
+}
